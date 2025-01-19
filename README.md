@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Dominika
 #### Always learning, always growing | Aspiring developer focused on improving frontend skills and UX/UI design.
+![Opis obrazu](readme.png)
 #### About Me  
 🌟 I’m an aspiring Frontend Developer passionate about UX/UI design.  
 🌱 Currently learning React and Node.js while sharpening my skills in Figma.  
