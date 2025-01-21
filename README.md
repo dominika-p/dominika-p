@@ -3,13 +3,13 @@
 ![Opis obrazu](readme.png)
 #### About Me  
 🌟 I’m an aspiring Frontend Developer passionate about UX/UI design.  
-🌱 Currently learning React and Node.js while sharpening my skills in Figma.  
+🌱 Currently learning React while sharpening my skills in Figma.  
 🎯 My goal is to land my first job in IT and grow as a designer and developer. 
 
-Skills: HTML5 | CSS3 | JavaScript | React | Node.js | Figma
+Skills: HTML5 | CSS3 | JavaScript | React (in the process of learning) | Figma
 
 - 🔭 I’m currently working on building more personal projects to showcase my frontend and UX/UI skills. 
-- 🌱 I’m currently learning JavaScript, React, Node.js and enhancing my design skills using Figma. 
+- 🌱 I’m currently learning JavaScript, React and enhancing my design skills using Figma. 
 - 📫 How to reach me: dominika.pietrzyk09@gmail.com 
 
 
